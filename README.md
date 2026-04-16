@@ -16,11 +16,11 @@
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=shayanahmad&color=00f5ff&style=flat-square&label=PROFILE+VIEWS)](https://github.com/shayanahmad756)
+[![Profile Views](https://komarev.com/ghpvc/?username=shayanahmad&color=00f5ff&style=flat-square&label=PROFILE+VIEWS)]([](https://github.com/shayanahmad756))
 &nbsp;
-![Status](style=flat-square&logo=circle&logoColor=00ff88)
+![Status](https://img.shields.io/badge/STATUS-ONLINE-00ff88?style=flat-square&logo=circle&logoColor=00ff88)
 &nbsp;
-![Role](style=flat-square)
+![Role](https://img.shields.io/badge/Role-Full+Stack-ff00cc?style=flat-square)
 
 </div>
 
@@ -32,7 +32,8 @@
 ```yaml
 name       : Shayan Ahmad
 role       : Full Stack Developer
-location   : Sahiwal, Pakistan 🇵🇰
+location   : Pakistan 🇵🇰
+focus      : End-to-end product development
 philosophy : Clean code. Scalable systems. Shipped products.
 status     : [ BUILDING ] ██████████░░░░░░ 65%
 ```
@@ -46,41 +47,39 @@ I architect digital systems from the ground up — bridging elegant frontends wi
 
 **Frontend**
 
-![React](style=flat-square&logo=react&logoColor=00f5ff)
-![Next.js](style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](style=flat-square&logo=typescript&logoColor=white)
-![HTML5](style=flat-square&logo=html5&logoColor=white)
-![CSS3](style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=00f5ff)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 **Backend**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-ff00cc?style=flat-square)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 
 **Database & DevOps**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
 <!-- GitHub Stats -->
-## `> git stats --user shayanahmad`
+## `> git stats --user shayanahmad756`
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=shayanahmad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=070b10&title_color=00f5ff&icon_color=ff00cc&text_color=b0c8e0&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=shayanahmad756&show_icons=true&theme=tokyonight&hide_border=true&bg_color=070b10&title_color=00f5ff&icon_color=ff00cc&text_color=b0c8e0&count_private=true" />
 &nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shayanahmad&layout=compact&theme=tokyonight&hide_border=true&bg_color=070b10&title_color=00f5ff&text_color=b0c8e0" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shayanahmad756&layout=compact&theme=tokyonight&hide_border=true&bg_color=070b10&title_color=00f5ff&text_color=b0c8e0" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shayanahmad&theme=tokyonight&hide_border=true&background=070b10&ring=00f5ff&fire=ff00cc&currStreakLabel=00f5ff" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shayanahmad756&theme=tokyonight&hide_border=true&background=070b10&ring=00f5ff&fire=ff00cc&currStreakLabel=00f5ff" />
 
 </div>
 
@@ -91,7 +90,7 @@ I architect digital systems from the ground up — bridging elegant frontends wi
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shayanahmad&theme=tokyo-night&bg_color=070b10&color=00f5ff&line=ff00cc&point=f5e642&hide_border=true)](https://github.com/shayanahmad)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shayanahmad756&theme=tokyo-night&bg_color=070b10&color=00f5ff&line=ff00cc&point=f5e642&hide_border=true)](https://github.com/shayanahmad756)
 
 </div>
 
@@ -102,7 +101,7 @@ I architect digital systems from the ground up — bridging elegant frontends wi
 
 <div align="center">
 
-[![Project Alpha](https://github-readme-stats.vercel.app/api/pin/?username=shayanahmad&repo=project-alpha&theme=tokyonight&hide_border=true&bg_color=070b10&title_color=00f5ff&text_color=b0c8e0&icon_color=ff00cc)](https://github.com/shayanahmad)
+[![Project Alpha](https://github-readme-stats.vercel.app/api/pin/?username=shayanahmad&repo=project-alpha&theme=tokyonight&hide_border=true&bg_color=070b10&title_color=00f5ff&text_color=b0c8e0&icon_color=ff00cc)](https://github.com/shayanahmad756)
 &nbsp;
 [![API Engine](https://github-readme-stats.vercel.app/api/pin/?username=shayanahmad&repo=api-engine&theme=tokyonight&hide_border=true&bg_color=070b10&title_color=00f5ff&text_color=b0c8e0&icon_color=ff00cc)](https://github.com/shayanahmad)
 
@@ -115,10 +114,10 @@ I architect digital systems from the ground up — bridging elegant frontends wi
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shayanahmad)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00f5ff?style=for-the-badge&logo=vercel&logoColor=black)](https://shayanahmad.dev)
-[![Email](https://img.shields.io/badge/Email-ff00cc?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shayan@email.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/shayanahmad)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/shayan-ahmad-764919365)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00f5ff?style=for-the-badge&logo=vercel&logoColor=black)]()
+[![Email](https://img.shields.io/badge/Email-ff00cc?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shayan11606@email.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Shayan1286884)
 
 </div>
 
