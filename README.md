@@ -93,19 +93,6 @@ I architect digital systems from the ground up — bridging elegant frontends wi
 
 ---
 
-<!-- Featured Projects -->
-## `> ls ./projects --featured`
-
-<div align="center">
-
-[![Project Alpha](https://github.com/shayanahmad756/AutiSmart.gitusername=shayanahmad756&repo=project-alpha&theme=tokyonight&hide_border=true&bg_color=070b10&title_color=00f5ff&text_color=b0c8e0&icon_color=ff00cc)](https://github.com/shayanahmad756)
-&nbsp;
-[![API Engine](https://github.com/shayanahmad756/Chess-Game-Using-Socket-Programing.gitusername=shayanahmad&repo=api-engine&theme=tokyonight&hide_border=true&bg_color=070b10&title_color=00f5ff&text_color=b0c8e0&icon_color=ff00cc)](https://github.com/shayanahmad)
-
-</div>
-
----
-
 <!-- Connect -->
 ## `> ssh connect@shayan`
 
