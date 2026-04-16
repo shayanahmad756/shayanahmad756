@@ -48,11 +48,8 @@ I architect digital systems from the ground up — bridging elegant frontends wi
 **Frontend**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=00f5ff)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 **Backend**
 
@@ -114,7 +111,7 @@ I architect digital systems from the ground up — bridging elegant frontends wi
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/shayan-ahmad-764919365)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shayan-ahmad-764919365/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00f5ff?style=for-the-badge&logo=vercel&logoColor=black)]()
 [![Email](https://img.shields.io/badge/Email-ff00cc?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shayan11606@email.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Shayan1286884)
