@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Hi%20there!%20I'm%20[Your%20Name]%20👋&fontSize=40&fontAlignY=35&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Hi%20there!%20I'm%20[Shayan%20Ahmad]%20👋&fontSize=40&fontAlignY=35&animation=fadeIn" />
 </p>
 
 <!-- Typing Animation -->
