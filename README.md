@@ -16,11 +16,11 @@
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=shayanahmad&color=00f5ff&style=flat-square&label=PROFILE+VIEWS)](https://github.com/shayanahmad)
+[![Profile Views](https://komarev.com/ghpvc/?username=shayanahmad&color=00f5ff&style=flat-square&label=PROFILE+VIEWS)](https://github.com/shayanahmad756)
 &nbsp;
-![Status](https://img.shields.io/badge/STATUS-ONLINE-00ff88?style=flat-square&logo=circle&logoColor=00ff88)
+![Status](style=flat-square&logo=circle&logoColor=00ff88)
 &nbsp;
-![Focus](https://img.shields.io/badge/FOCUS-Full+Stack-ff00cc?style=flat-square)
+![Role](style=flat-square)
 
 </div>
 
@@ -32,8 +32,7 @@
 ```yaml
 name       : Shayan Ahmad
 role       : Full Stack Developer
-location   : Pakistan 🇵🇰
-focus      : End-to-end product development
+location   : Sahiwal, Pakistan 🇵🇰
 philosophy : Clean code. Scalable systems. Shipped products.
 status     : [ BUILDING ] ██████████░░░░░░ 65%
 ```
@@ -47,12 +46,11 @@ I architect digital systems from the ground up — bridging elegant frontends wi
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=00f5ff)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![React](style=flat-square&logo=react&logoColor=00f5ff)
+![Next.js](style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](style=flat-square&logo=typescript&logoColor=white)
+![HTML5](style=flat-square&logo=html5&logoColor=white)
+![CSS3](style=flat-square&logo=css3&logoColor=white)
 
 **Backend**
 
